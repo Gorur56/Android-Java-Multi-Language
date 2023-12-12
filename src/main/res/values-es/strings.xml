@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Soporte en varios idiomas</string>
+    <string name="baslik">Hola</string>
+    <string name="kullaniciPlaceHolder">Introduzca su nombre de usuario</string>
+    <string name="sifrePlaceHolder">Introducir la contraseña</string>
+    <string name="buttonText">Por favor Iniciar sesión</string>
+    <string name="help">Ayúdame</string>
+</resources>
